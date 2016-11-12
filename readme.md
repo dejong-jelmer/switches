@@ -16,13 +16,15 @@ HTML:
     <!-- Actual checkbox / switch -->
     <label class="switch">
         <input type="checkbox" name="">
+         <!-- add classname here -->
         <div class="switch-btn"></div>
     </label>
 </body>
 ```
+Classnames:
 
-* switch-btn =  (default switch class) style:curved, color:gray size:medium 
-* switch-color =  color:green/red, size:medium 
+* switch-btn =  (default switch class) style:curved; color:grey; size:medium 
+* switch-color =  color:green/red; size:medium 
 * switch-sm =  size:small 
 * switch-md =  size:md 
 * switch-lg =  size:large
