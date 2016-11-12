@@ -1,5 +1,5 @@
 ## CSS switches.
-<hr>
+
 
 Easy to use checkbox classes for CSS.
 
